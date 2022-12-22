@@ -18,3 +18,4 @@ Bu durumda kodlar giderlerden minimumu, gelirlerden maksimumu alacak şekilde ç
 70. satırda "result" değişkeninde bulunan sign incelenmesi gerkir. Burada -1 ler gider. 1 ler gelir olacak şekilde düzenlenmiştir. Gider Ve gelirleri 1 i - ve + değerde değiştirerek düzenleyebilirsiniz.
 4.2- Eğer Matrisi değiştirirseniz 4.1 de anlatılan "sign"ı değişken sayısına göre artırıp azaltmanız gerekmektedir.
 5- Değerler girilirken virgül kullanmanız halinde hata verecektir. O yüzden numerik tüm girdilerinizde nokta kullanmanız gerekmektedir.
+6- Kodlar yorum satırlarında kod içerisinde anlatılmıştır.

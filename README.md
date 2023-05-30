@@ -7,6 +7,7 @@ KULLANIM UYARILARI;
 1-Juphyter Python arayüzünde online olarak her yerde çalıştırılabilmesi için kodlar Juphyter'e uygun olarak yazılmıştır. Başka arayüzlerde veya IDLE de çalıştırmak için sadece en baştaki "pip install" komutunu arayüze göre düzenlemeniz yeterlidir. Kütüphane hali hazırda bilgisayarınızda bulunuyorsa import komutundan itibaren kopyalayıp çalıştırabilirsiniz.
 
 2-Karışıklık olmaması adına Değişkenlerin yüzdesel ağırlıkları önceden belirlenmeli ve değişken isimlerinizin bulunduğu sırasıyla yazılmalıdır. AĞIRLIKLAR TOPLAMI MUHAKKAK 1'e eşit olmalıdır. 
+
 2.1-Excel Görseli ve Pythondaki girdi görseli incelenerek süreç daha net anlaşılabilir olduğundan görselleri kesinlikle inceleyiniz.
 
 3- Eğer kıyaslamak istediğiniz ürün sayıları veya değişken sayıları farklı ise kod içerisinde bulunan döngü oluşumlarındaki "range" değerini değiştirerek kendi matrisinizi oluşturabilirsiniz.
